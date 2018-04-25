@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Game_db</string>
+    <string name="id_application">id_1</string>
+    <string name="id_exercice">id_1</string>
+    <string name="id_niveau">id_1</string>
+    <string name="id_exo_1">id_1</string>
+    <string name="id_niveau_1.1">id_1</string>
+    <string name="id_exo_2">id_1</string>
+    <string name="id_niveau_2.1">id_1</string>
+    <string name="id_exo_3">id_1</string>
+    <string name="id_niveau_3.1">id_1</string>
+    <string name="id_exo_4">id_1</string>
+    <string name="id_niveau_4.1">id_1</string>
+</resources>
